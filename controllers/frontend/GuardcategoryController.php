@@ -1,6 +1,6 @@
 <?php
 
-namespace kouosl\nobetlistesi\controllers\backend;
+namespace kouosl\nobetlistesi\controllers\frontend;
 
 use Yii;
 use kouosl\nobetlistesi\models\Guardcategory;
