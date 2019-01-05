@@ -1,10 +1,10 @@
 <?php
 
-namespace backend\controllers;
+namespace kouosl\nobetlistesi\controllers\backend;
 
 use Yii;
-use backend\models\GuardList;
-use backend\models\GuardListSearch;
+use kouosl\nobetlistesi\models\Guardlist;
+use kouosl\nobetlistesi\models\GuardListSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
@@ -12,7 +12,7 @@ use yii\filters\VerbFilter;
 /**
  * GuardListController implements the CRUD actions for GuardList model.
  */
-class GuardListController extends Controller
+class GuardlistController extends Controller
 {
     /**
      * {@inheritdoc}
@@ -64,7 +64,7 @@ class GuardListController extends Controller
      */
     public function actionCreate()
     {
-        $model = new GuardList();
+        $model = new Guardlist();
 
         if ($model->load(Yii::$app->request->post()) && $model->save()) {
             return $this->redirect(['view', 'id' => $model->id]);
@@ -118,7 +118,7 @@ class GuardListController extends Controller
      */
     protected function findModel($id)
     {
-        if (($model = GuardList::findOne($id)) !== null) {
+        if (($model = Guardlist::findOne($id)) !== null) {
             return $model;
         }
 

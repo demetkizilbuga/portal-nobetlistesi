@@ -4,7 +4,7 @@ namespace kouosl\nobetlistesi\controllers\backend;
 
 use Yii;
 use kouosl\nobetlistesi\models\Guardcategory;
-use kouosl\nobetlistesi\models\GuardcategorySearch;
+use kouosl\nobetlistesi\models\GuardCategorySearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
@@ -35,7 +35,7 @@ class GuardcategoryController extends Controller
      */
     public function actionIndex()
     {
-        $searchModel = new GuardcategorySearch();
+        $searchModel = new GuardCategorySearch();
         $dataProvider = $searchModel->search(Yii::$app->request->queryParams);
 
         return $this->render('index', [

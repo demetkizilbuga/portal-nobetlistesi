@@ -1,6 +1,6 @@
 <?php
 
-namespace backend\models;
+namespace kouosl\nobetlistesi\models;
 
 use Yii;
 use yii\base\Model;
@@ -10,7 +10,7 @@ use backend\models\GuardCategory;
 /**
  * GuardCategorySearch represents the model behind the search form of `backend\models\GuardCategory`.
  */
-class GuardCategorySearch extends GuardCategory
+class GuardCategorySearch extends Guardcategory
 {
     /**
      * {@inheritdoc}
@@ -41,7 +41,7 @@ class GuardCategorySearch extends GuardCategory
      */
     public function search($params)
     {
-        $query = GuardCategory::find();
+        $query = Guardcategory::find();
 
         // add conditions that should always apply here
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace backend\models;
+namespace kouosl\nobetlistesi\models;
 
 use Yii;
 
@@ -15,7 +15,7 @@ use Yii;
  * @property string $end
  * @property int $category_id
  */
-class GuardList extends \yii\db\ActiveRecord
+class Guardlist extends \yii\db\ActiveRecord
 {
     /**
      * {@inheritdoc}

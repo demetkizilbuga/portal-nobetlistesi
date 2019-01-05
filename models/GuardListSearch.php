@@ -1,6 +1,6 @@
 <?php
 
-namespace backend\models;
+namespace kouosl\nobetlistesi\models;
 
 use Yii;
 use yii\base\Model;
