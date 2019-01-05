@@ -30,8 +30,8 @@ $this->params['breadcrumbs'][] = $this->title;
             'latitude',
             'longitude',
             'start',
-            //'end',
-            //'category_id',
+            'end',
+            'category_id',
 
             ['class' => 'yii\grid\ActionColumn'],
         ],
