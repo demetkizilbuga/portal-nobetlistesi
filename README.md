@@ -24,3 +24,8 @@ NöbetListesi Modulü
  
 Bu dört adımı uyguladığınızda migrationdaki tablolar veri tabanına eklenecek ve github daki ödev modülü portal/vendor/kouosl dizininin altına portal-Odev olarak oluşarak portal.kouosl adresinden erişilebilir hale gelecektir. Erişmek istediğiniz sayfaya http://portal.kouosl/admin/nobetlistesi/nobetlistesi şeklinde erişebilirsiniz.
 
+Aşağıdaki şekildeki gibidir modül tablolarım :
+
+![ekran resmi 2019-01-06 00 24 24](https://user-images.githubusercontent.com/35598899/50765232-5b687200-1286-11e9-8d29-f72268f41f0e.png)
+![ekran resmi 2019-01-06 00 23 58](https://user-images.githubusercontent.com/35598899/50765234-5c010880-1286-11e9-9e3f-2cd04291e85a.png)
+![ekran resmi 2019-01-06 00 23 43](https://user-images.githubusercontent.com/35598899/50765235-5c999f00-1286-11e9-86c3-d82e0ed2ee18.png)
