@@ -31,12 +31,14 @@ Aşağıdaki şekildeki gibidir modül tablolarım :
 ![ekran resmi 2019-01-06 00 23 43](https://user-images.githubusercontent.com/35598899/50765235-5c999f00-1286-11e9-86c3-d82e0ed2ee18.png)
 
 Modulüme iki ayrı database ekledim guard_list ve guard_category olmak üzere
-http://portal.kouosl/phpmyadmin/tbl_structure.php?db=kouosl&table=guard_list&token=cc9c2afeed0f3aa188394a48f4f86dd9 bağlandığımızdaki görüntü aşağıda verimiştir. 
+http://portal.kouosl/phpmyadmin/tbl_structure.php?db=kouosl&table=guard_list&token=cc9c2afeed0f3aa188394a48f4f86dd9 
+
+bağlandığımızdaki görüntü aşağıda verimiştir. 
 
 ![ekran resmi 2019-01-07 14 28 17](https://user-images.githubusercontent.com/35598899/50766031-daf74080-1288-11e9-89f2-ee919bdd6740.png)
 
 
-Son olarak modülümüzün çalışabilmesi için gerekli olan dosyalar şeildeki gibi portal klosöründeki gibi olmalıdır.
+Son olarak modülümüzün çalışabilmesi için gerekli olan dosyalar şekildeki gibi portal klosöründeki gibi olmalıdır.
 
 
 ![ekran resmi 2019-01-07 14 34 34](https://user-images.githubusercontent.com/35598899/50766278-a89a1300-1289-11e9-9829-0aca7a596cad.png)
