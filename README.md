@@ -37,3 +37,7 @@ http://portal.kouosl/phpmyadmin/tbl_structure.php?db=kouosl&table=guard_list&tok
 
 
 Son olarak modülümüzün çalışabilmesi için gerekli olan dosyalar şeildeki gibi portal klosöründeki gibi olmalıdır.
+
+
+![ekran resmi 2019-01-07 14 34 34](https://user-images.githubusercontent.com/35598899/50766278-a89a1300-1289-11e9-9829-0aca7a596cad.png)
+
