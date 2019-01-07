@@ -29,3 +29,8 @@ Aşağıdaki şekildeki gibidir modül tablolarım :
 ![ekran resmi 2019-01-06 00 24 24](https://user-images.githubusercontent.com/35598899/50765232-5b687200-1286-11e9-8d29-f72268f41f0e.png)
 ![ekran resmi 2019-01-06 00 23 58](https://user-images.githubusercontent.com/35598899/50765234-5c010880-1286-11e9-9e3f-2cd04291e85a.png)
 ![ekran resmi 2019-01-06 00 23 43](https://user-images.githubusercontent.com/35598899/50765235-5c999f00-1286-11e9-86c3-d82e0ed2ee18.png)
+
+Modulüme iki ayrı database ekledim guard_list ve guard_category olmak üzere
+http://portal.kouosl/phpmyadmin/tbl_structure.php?db=kouosl&table=guard_list&token=cc9c2afeed0f3aa188394a48f4f86dd9 bağlandığımızdaki görüntü aşağıda verimiştir. 
+
+![ekran resmi 2019-01-07 14 28 17](https://user-images.githubusercontent.com/35598899/50766031-daf74080-1288-11e9-89f2-ee919bdd6740.png)
