@@ -34,3 +34,6 @@ Modulüme iki ayrı database ekledim guard_list ve guard_category olmak üzere
 http://portal.kouosl/phpmyadmin/tbl_structure.php?db=kouosl&table=guard_list&token=cc9c2afeed0f3aa188394a48f4f86dd9 bağlandığımızdaki görüntü aşağıda verimiştir. 
 
 ![ekran resmi 2019-01-07 14 28 17](https://user-images.githubusercontent.com/35598899/50766031-daf74080-1288-11e9-89f2-ee919bdd6740.png)
+
+
+Son olarak modülümüzün çalışabilmesi için gerekli olan dosyalar şeildeki gibi portal klosöründeki gibi olmalıdır.
